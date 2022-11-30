@@ -8,7 +8,7 @@ Systems analyst with a focus on web development. Technologies: Rest, .Net, .Net 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562996710782&text=Olá!)](https://api.whatsapp.com/send?phone=5562996710782&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jv.dasilvasoares@gmail.com)](mailto:jv.dasilvasoares@gmail.com)
 
-More about me [here]( "Curriculo.") and [here.](https://web.dio.me/users/joao_victorsoares "DIO Community's")
+More about me [here](https://juaovitu13.github.io/PORTFOLIO/ "Curriculo.") and [here.](https://web.dio.me/users/joao_victorsoares "DIO Community's")
 
 <svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
